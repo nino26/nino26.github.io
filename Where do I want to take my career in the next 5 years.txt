@@ -1,0 +1,58 @@
+Where do I want to take my career in the next 5 years?
+
+As of July 8th, 2021 I received a offer letter from a Fortune 500 company to join Cyber Security Incident Response Team. The great hurdle of making the breakthrough into security has been overcome. It took many long nights and early mornings, studying and investing into myself to gain the nesscarry skills needed to ad value to a company. I am probably write an article on how I managed to secure my goal, for now all I can say is invest in yourself, learn the practical skills and network, network, network. 
+
+This article however is about, “Now what?”. Where am I going next with my career? Well when I approach any questions about the future I ask myself, “What does good look like?”. In other words where do I want to end up? This way I can reverse engineer to my current knowledge how to get to that point. 
+
+Where do I end up in 5 Years?
+
+In 5 years I want to be a skilled Information Security specialist. I want to be able to help companies secure their infrastructure to the best standards and have my input be taken with high regard. I want to have influence to help other aspiring Information Security professionals beak into the field, in other words have a say in the hiring process. 
+
+In other words:
+
+    1. Be a Security Ninja.
+    2. Have influence within my company.
+    3. Help aspiring InfoSec candidates accomplish their goals.
+
+Now let me break down each of these goals.
+
+Become a Security Ninja
+
+How I see it, there are core knowledge points when it comes to InfoSec.
+    • Networking
+    • Linux
+    • Windows
+    • Programming
+    • Exploitation
+    • Defense
+    • Security Standards (NIST,ISO,CIS)
+
+I feel I could break that down these core knowledge points on a later post. ###comment
+
+I plan investing time, energey, and money in books, video courses, and personal projects to learn these skills. 
+
+Have influence within my company
+
+One of the things I love about working in Tech is the sense of impact we have on the success of our company. This comes with a lot of responsibily and stress at times. For example taking down a Domain Controller in the network, may cause our co-workers to not be able to login into their devices losing our employers large amounts of profits potentially. 
+
+Entering InfoSec from a NOC I know the impact is even more severe. We not only have to maintain Availbiity, but the whole CIA Triad.
+
+###ENTER PICUTE OF CIA TRIANGLE
+
+Confiedntity – ensuring only the people who are meant to view company data are the only ones with access to those files.
+
+Integrity – ensuring data is not currupted by adverseries internally or externally
+
+Availibilty – Ensure to maintaing the infrasturcutre has fault tolerance and no single points of failures
+
+This understanding that the decisions I make during work have a great impact to many of my co-workers and some who I call my friends, gives me a deep sense of purpose and meaning. I take my work serious and thus would like an impact on the decisions being made at my company.
+
+I want to become the guy in the room who is always conscious of the 1st, 2nd, and 3rd consequences of each action taken. This takes having a deep understanding of how the infrastructre is distributed and run. This also takes being current on all changes happening at any given time, taking great notes and asking the right questions.
+I want to become the go to guy, be the person my director can depend on and look to make sure things run smoothly. This takes time and takes proactivly looking to improve processes. I do feel I need to be careful to not take too much responsibility without being prepared.
+I want become a leader in my organzation. I want to be a leader who leads by example and knows how to motivate the people around me to exceed their potential.
+
+By doing the above I feel having influence will come nataurally. 
+
+
+Help aspiring InfoSec professionals accomplish their goal
+

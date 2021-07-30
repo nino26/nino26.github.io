@@ -1,0 +1,21 @@
+body,h1,h2,h3,h4,h5 {font-family: "Raleway", sans-serif;}
+
+/* post height and fontsize */
+body{
+    font-size: 1.35rem; 
+    line-height: 1.95rem;
+}
+
+
+/* aligning post to be in the middle */
+.blog{margin-left: 200px;margin-right: 200px;}
+
+h1.entry-title{
+    text-align: center;
+    font-size: 2.25rem;
+    line-height: 2.25rem;
+}
+
+span.date-author{
+    font-size: 1rem;
+    line-height: 1rem}
